@@ -1,0 +1,22 @@
+{
+  "name": "taschenrechner",
+  "version": "1.0.0",
+  "description": "A calculator api",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felkru/taschenrechner.git"
+  },
+  "author": "Felix Krueckel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felkru/taschenrechner/issues"
+  },
+  "homepage": "https://github.com/felkru/taschenrechner#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
